@@ -109,7 +109,7 @@ all_platforms = [
     demotion_reg=0x20E02A000,
   ),
   DevicePlatform(cpid=0x8000, cprv=0x20, scep=0x01, arch='arm64', srtg='"iBoot-2234.0.0.3.3',
-    rom_base=0x100000000, rom_size=0x80000, rom_sha1='9979dce30e913c888cf77234c7a7e2a7fa676f4c',
+    rom_base=0x100000000, rom_size=0x80000, rom_sha1='c4c0986827f8e866adfa27b27dc1389ce3c1ee13',
     sram_base=0x180000000, sram_size=0x400000,
     dram_base=0x800000000,
     nonce_length=32, sep_nonce_length=20,
